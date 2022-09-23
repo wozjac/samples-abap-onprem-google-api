@@ -185,7 +185,7 @@ CLASS zcl_google_api_jwt IMPLEMENTATION.
 
     cl_http_utility=>set_request_uri(
       request = http_client->request
-      uri     = 'projects/jwt-call-sample' ).
+      uri     = 'projects/...your project id...' ).
 
     http_client->send(
       EXCEPTIONS
