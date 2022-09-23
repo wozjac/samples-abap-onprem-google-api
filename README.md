@@ -1,2 +1,2 @@
-# samples-abap-onprem-google-api
-[Samples] ABAP code for calling Google APIs using signed JWT
+# ABAP on premise -> Google APIs using signed JWT
+This is sample code from the article: https://jacekw.dev/blog/2022/google-cloud-api-call-from-abap-on-premise/
